@@ -38,7 +38,7 @@ router.get('/', function(req, res) {
   });
 });
 
-console.log('test5');
+console.log('test6');
 /* Seed test data */
 router.post('/seed', function(req,res) {
   // drop 'contacts' table if already exists, and seed some test data
